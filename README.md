@@ -12,3 +12,22 @@
 * [ Thành viên nhóm](#thanhvien)
 * [Quá trình môn học](#quatrinh)
 * [ Đồ án môn học](#doan)
+
+## GIỚI THIỆU MÔN HỌC
+<a name="gioithieumonhoc"></a>
+* **Tên môn học**: Máy học - Machine Learning
+* **Mã môn học**: CS114
+* **Lớp học**: CS114.O21
+* **Năm học**: HK2 (2023-2024)
+* **Giảng viên**: 
+   1. PGS. Lê Đình Duy - *duyld@uit.edu.vn*
+   2. ThS. Phạm Nguyễn Trường An - *anpnt@uit.edu.vn*
+
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+
+## QUÁ TRÌNH MÔN HỌC
+<a name ="quatrinh"></a>
+
+## ĐỒ ÁN MÔN HỌC
+<a name="doan"></a>
