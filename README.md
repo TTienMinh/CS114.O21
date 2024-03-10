@@ -8,3 +8,7 @@
 <h1 align="center"><b>CS114.O21 - MACHINE LEARNING - MÁY HỌC</b></h1>
 
 ## BẢNG MỤC LỤC
+* [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Thành viên nhóm](#thanhvien)
+* [Quá trình môn học](#quatrinh)
+* [ Đồ án môn học](#doan)
