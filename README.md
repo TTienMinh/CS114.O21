@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.O21 - MACHINE LEARNING - MÁY HỌC</b></h1>
+<h1 align="center"><b>MACHINE LEARNING - MÁY HỌC - CS114.O21</b></h1>
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
